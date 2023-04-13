@@ -2,7 +2,7 @@ import requests
 from requests.auth import HTTPBasicAuth
 
 languages = ['en', 'fr', 'fr-ch', 'de', 'de-at', 'de-ch']
-base_url = 'https://staging.wingly.rocks'
+base_url = 'https://www.rockstargames.com'
 
 # List of URLs to check
 url_patterns = [
