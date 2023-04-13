@@ -6,8 +6,7 @@ base_url = 'https://www.rockstargames.com'
 
 # List of URLs to check
 url_patterns = [
-    '/landingpages/commercial-operator',
-    
+    '/',
 ]
     
 username = 'your_username'
